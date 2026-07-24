@@ -32,4 +32,5 @@ To handle cases of dental crowding where boundaries are ambiguous, a hybrid stra
 * **Data Format:** `.stl` (Stereolithography)
 
 ## Results
-The pipeline effectively generates a clean partition between the anatomy of the tooth and the supporting structure, providing a foundation for automated tooth numbering and alignment analysis.
+The pipeline effectively generates a clean partition between the anatomy of the tooth and the supporting structure, providing a foundation for automated tooth numbering and alignment analysis. 
+![Alt text](Results/Meshdataoutout.jpg)
